@@ -52,3 +52,23 @@ App (AppCtx: db, user, login/register/logout, toast)
 
 ## Screenshots
 _Add screenshots/GIFs here (login, professor tracking, student group acknowledgement, mobile view)._
+
+ProfLogin
+<img width="1366" height="768" alt="Screenshot (501)" src="https://github.com/user-attachments/assets/5371fbdb-b94e-4d42-b512-365ffac8ce4d" />
+
+<img width="1366" height="768" alt="Screenshot (502)" src="https://github.com/user-attachments/assets/c02a870c-b432-4db7-baaa-ecf5c5e0b7fb" />
+
+<img width="1366" height="768" alt="Screenshot (503)" src="https://github.com/user-attachments/assets/57eab3ff-638e-431d-b633-fba436e2f953" />
+
+StudentLogin
+<img width="1366" height="768" alt="Screenshot (504)" src="https://github.com/user-attachments/assets/adc61dff-5bef-4469-a5e7-2b2d40a135a3" />
+
+<img width="1366" height="768" alt="Screenshot (505)" src="https://github.com/user-attachments/assets/af63f4b5-0767-488e-9b59-510d5bb88f31" />
+
+<img width="1366" height="768" alt="Screenshot (506)" src="https://github.com/user-attachments/assets/9c33e26b-668d-4780-9e63-c1e3142e045b" />
+
+
+
+
+
+
